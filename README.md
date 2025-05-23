@@ -1,5 +1,6 @@
 # Distributed-Web-Crawler
-
+![1](https://github.com/user-attachments/assets/4baa21a5-1fe7-4060-bf83-1b12217f6e1a)
+![2](https://github.com/user-attachments/assets/01005069-d3a5-4de1-974c-14d5ab580c63)
 ## 📌 Overview
 A fault-tolerant distributed system that:
 1. **Crawls** websites using multiple worker nodes  
